@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Build output
+dist/
+coverage/
+*.tsbuildinfo
+
+# Expo
+.expo/
+
+# Logs
+*.log
+
+# IDEs
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
