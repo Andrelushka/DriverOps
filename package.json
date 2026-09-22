@@ -2,6 +2,9 @@
   "name": "driverops",
   "private": true,
   "packageManager": "pnpm@12.4.2",
+  "scripts": {
+    "dev:api": "pnpm --filter @driverops/api start:dev"
+  },
   "engines": {
     "node": ">=24 <25",
     "pnpm": ">=12 <13"
