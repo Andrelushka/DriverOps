@@ -24,3 +24,6 @@ coverage/
 # Operating system files
 .DS_Store
 Thumbs.db
+
+# Generated code
+apps/api/src/generated/prisma/
