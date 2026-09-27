@@ -1,0 +1,23 @@
+# Expo
+.expo/
+expo-env.d.ts
+
+# Generated native projects
+/android/
+/ios/
+
+# Native build and signing files
+.kotlin/
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.pem
+
+# Metro
+.metro-health-check*
+
+# Local environment files
+.env*.local
