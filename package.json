@@ -3,7 +3,8 @@
   "private": true,
   "packageManager": "pnpm@12.4.2",
   "scripts": {
-    "dev:api": "pnpm --filter @driverops/api start:dev"
+    "dev:api": "pnpm --filter @driverops/api start:dev",
+    "dev:mobile": "pnpm --filter @driverops/mobile start"
   },
   "engines": {
     "node": ">=24 <25",

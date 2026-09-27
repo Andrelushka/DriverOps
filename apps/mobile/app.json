@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "DriverOps",
+    "slug": "driverops",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "driverops",
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
